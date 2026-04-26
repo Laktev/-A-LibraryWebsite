@@ -7,3 +7,5 @@
 **Project Due:** *To be Announced*
 
 **Project Documentation Folder:** *Add later*
+
+**DEPLOYMENT:** *https://lict-122-le-1.vercel.app/*
